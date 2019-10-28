@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/the_Velvet_Room/precache-manifest.e2ab88a4465e21c3ddb86f798b8f6484.js"
+  "/the_Velvet_Room/precache-manifest.9f8733a5e13967d398416bc1518cfd6b.js"
 );
 
 self.addEventListener('message', (event) => {

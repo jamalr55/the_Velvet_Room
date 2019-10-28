@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc2db260496dcba223a2195c57788606",
+    "revision": "1c47a362b7a164740e9d4c357d4b2d24",
     "url": "/the_Velvet_Room/index.html"
   },
   {
-    "revision": "d56def3216b5c3656e11",
-    "url": "/the_Velvet_Room/static/css/main.449dab84.chunk.css"
+    "revision": "e23080e63132d2ce0015",
+    "url": "/the_Velvet_Room/static/css/main.7c4aad01.chunk.css"
   },
   {
     "revision": "e1692d64b4a74c29c9a4",
     "url": "/the_Velvet_Room/static/js/2.c4fa2b25.chunk.js"
   },
   {
-    "revision": "d56def3216b5c3656e11",
-    "url": "/the_Velvet_Room/static/js/main.7c88fafb.chunk.js"
+    "revision": "e23080e63132d2ce0015",
+    "url": "/the_Velvet_Room/static/js/main.f7ee3e30.chunk.js"
   },
   {
     "revision": "caf8bcdf188b78b7fc6f",
